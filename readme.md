@@ -1,6 +1,6 @@
 # Hello, world!
 
-I study in Netology
+I study a Git.
 
 12.04.2024
 
